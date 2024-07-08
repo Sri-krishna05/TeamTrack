@@ -1,0 +1,27 @@
+.loginPage {
+  background: #fff;
+  background: linear-gradient(
+    rgba(120, 191, 241, 0.5),
+    rgba(15, 109, 146, 0.5)
+  );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 120%;
+}
+
+.loginForm {
+  background-color: rgba(15, 109, 146, 0.5);
+  color: white;
+}
+
+.employee_image {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.empImg {
+  width: 350px;
+  height: 350px;
+  border-radius: 40%;
+}
